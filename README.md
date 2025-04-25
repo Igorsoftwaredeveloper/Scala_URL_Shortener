@@ -1,1 +1,1 @@
-# Scala_URL_Shortener
+sbt run
